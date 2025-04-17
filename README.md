@@ -6,7 +6,6 @@
 
 An AI-powered tool that converts YouTube video transcripts into concise summaries using Google's Gemini Pro model.
 
-![Demo](https://via.placeholder.com/800x400.png?text=App+Demo+Preview)
 
 ## Features ✨
 - 🔑 API-based transcript extraction
@@ -17,9 +16,9 @@ An AI-powered tool that converts YouTube video transcripts into concise summarie
 
 ### **Coming Soon**  
 🛠️ Next Priority Features:
-- [ ] Video length detection ⏱️  
-- [ ] Summary length customization (50/100/250 words)  
-- [ ] Multi-language support 🇪🇸🇫🇷🇩🇪  
+- Video length detection ⏱️  
+- Summary length customization (50/100/250 words)  
+- Multi-language support 🇪🇸🇫🇷🇩🇪  
 
 ### **Future Ideas**  
 💡 Long-Term Goals:
