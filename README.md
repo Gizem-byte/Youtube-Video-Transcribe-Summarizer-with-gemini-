@@ -15,6 +15,18 @@ An AI-powered tool that converts YouTube video transcripts into concise summarie
 - 🚦 Error handling for invalid URLs
 - 🔒 Secure API key management
 
+### **Coming Soon**  
+🛠️ Next Priority Features:
+- [ ] Video length detection ⏱️  
+- [ ] Summary length customization (50/100/250 words)  
+- [ ] Multi-language support 🇪🇸🇫🇷🇩🇪  
+
+### **Future Ideas**  
+💡 Long-Term Goals:
+- Chrome extension 🧩  
+- Mobile app version 📱  
+- Speaker identification in transcripts 🗣️  
+
 ## Installation 📦
 
 ### Prerequisites
@@ -41,14 +53,6 @@ streamlit run app.py
 2. Click "Get Detailed Notes"
 3. View AI-generated summary
 
-## API Documentation 📚
-```python
-# Transcript extraction
-def extract_transcript_details(url) -> str
-
-# AI summarization
-def generate_gemini_content(text, prompt) -> str
-```
 
 ## Troubleshooting 🔧
 | Error | Solution |
@@ -57,15 +61,6 @@ def generate_gemini_content(text, prompt) -> str
 | No Transcript | Use videos with CC/subtitles |
 | Rate Limits | Wait 60s between requests |
 
-## Roadmap 🗺️
-- [ ] Multi-language support
-- [ ] Summary length control
-- [ ] Export options (PDF/TXT)
-- [ ] Video preview player
-
-## Support ❤️
-[Open an Issue](https://github.com/yourusername/youtube-summarizer/issues) |  
-[![Buy Me Coffee](https://img.shields.io/badge/Support-Buy%20Coffee-yellow)](https://buymeacoffee.com)
 
 ## License 📄
 MIT License - See [LICENSE](LICENSE) for details
@@ -73,4 +68,3 @@ MIT License - See [LICENSE](LICENSE) for details
 ---
 
 **Note**: This project is not affiliated with YouTube or Google LLC.
-```
