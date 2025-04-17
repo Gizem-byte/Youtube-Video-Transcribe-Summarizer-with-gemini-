@@ -1,7 +1,7 @@
 # YouTube Video Summarizer with Gemini AI 🚀
 
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 An AI-powered tool that converts YouTube video transcripts into concise summaries using Google's Gemini Pro model.
